@@ -384,7 +384,9 @@ header {
     opacity: 0.8;
 }
 
-.platform-icon img {
+.platform-icon img,
+.friend-icon img
+{
     width: 100%;
     height: 100%;
     object-fit: cover;
